@@ -1,7 +1,8 @@
 Privacy Policy
+
 Thank you for choosing Professional Criminal services.
 
-Through this Privacy Policy, we will explain how Professional Criminal collect, use, share, and protect information.
+Through this Privacy Policy, we will explain how Professional Criminal collect, use, share, and protect information in the "U-Droid Center for u-blox®" app.
 
 1. Information We Collect
 a) Information you directly provide us
@@ -22,6 +23,7 @@ Camera and Photos:
 Our services access your device’s camera and gallery to enable phototaking and editing functionalities. With your consent, we access your device’s camera.
 
 Location Information:
+We are using fictitious location permission so that third-party applications can use coordinates from an external navigation receiver. We do not use location information for advertising or any other purpose.
 We may collect your location information to add geo tags to the photos you take on our services. With your consent, we may collect such information through GPS, wireless network, wifi network, etc. You can revoke your consent or turn off geo tags by changing your location permissions in settings.
 
 Any aspects of this Privacy Policy may be updated, edited or removed at any time, and new policies may be added. In the case of such event, we encourage our users to check for updates to our Privacy Policy.
